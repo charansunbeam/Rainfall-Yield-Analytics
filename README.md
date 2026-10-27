@@ -1,4 +1,4 @@
-# Monsoon Rainfall and Crop Yield Statistical Analysis
+#Rainfall and Crop Yield Statistical Analysis
 
 ## Project Overview
 
